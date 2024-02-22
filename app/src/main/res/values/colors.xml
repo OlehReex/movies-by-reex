@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorGraphite">#424242</color>
+    <color name="colorGraphiteDark">#1C1C1C</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorOrange">#f08316</color>
+</resources>
